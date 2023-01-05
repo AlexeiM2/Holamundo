@@ -7,8 +7,8 @@ int main(){
 	cout<<"\t   Sistema calificaciones\n";
 	cout<<"Ingrese cantidad de alumnos:";
 	cin>>n;
-
 	for (i=1;i<=n;i++){
+	cout <<"cusadnsad";
 	cout<<"\nIngrese nota Primer Parcial: ";
 	cin>>nota1;
 	cout<<"Ingrese nota Segundo Parcial: ";
